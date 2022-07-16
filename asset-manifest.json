@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LinkedIn/static/css/main.f9b59f78.css",
+    "main.js": "/LinkedIn/static/js/main.653e3e56.js",
+    "index.html": "/LinkedIn/index.html",
+    "main.f9b59f78.css.map": "/LinkedIn/static/css/main.f9b59f78.css.map",
+    "main.653e3e56.js.map": "/LinkedIn/static/js/main.653e3e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b59f78.css",
+    "static/js/main.653e3e56.js"
+  ]
+}
