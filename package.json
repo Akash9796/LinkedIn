@@ -1,8 +1,8 @@
 {
-  "homepage": "http://akash9796.github.io/LinkedInClone",
+  "homepage": "http://akash9796.github.io/LinkedIn",
   "name": "linkedinclone",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@testing-library/jest-dom": "^5.16.5",
